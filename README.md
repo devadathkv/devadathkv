@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devadath KV</h1>
 <h3 align="center">A passionate competitive programmer from India</h3>
+![github-header-image](https://github.com/devadathkv/devadathkv/assets/143889330/6cc348c5-8ade-43e5-90a0-375267b0f2dd)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devadathkv&label=Profile%20views&color=0e75b6&style=flat" alt="devadathkv" /> </p>
 
